@@ -1,2 +1,2 @@
 # HTML-Portfolio
-WIP Portfolio/Resume
+Portfolio/Resume Example
